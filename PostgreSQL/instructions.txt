@@ -1,0 +1,6 @@
+in this folder:
+1- the datatsets that are loaded to the database.
+2- SQL script to create the tables
+3- SQL scripts to create the views
+4- SQL scripts to query the workload
+5- SQL scripts to query the new queries.
