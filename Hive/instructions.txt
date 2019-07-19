@@ -1,0 +1,5 @@
+in this folder:
+1- the datatsets that are loaded to the database.
+2- python script to partition the datasets and store in the partitions.
+3- the CQL script of the workload
+4- the CQL script of the new queries
